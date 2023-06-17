@@ -1,0 +1,26 @@
+[x] Project Setup
+[x] Generate map boundaries
+[x] Add Pacman movement
+[x] Add collision detection
+[x] Swap boundaries with images
+[x] Generate pellets
+[x] Remove pellets on collision
+[x] Add score
+[x] Create ghost
+[x] Create powerup
+[x] Add win condition
+[x] Lay out full level
+[x] Pacman chomp animation
+ 
+[] Scared ghosts flash when expiring
+[] Ghost sprites
+[] Ghosts spawn in cage
+[] Multiple lives
+[] Pipes to opposite end of screen
+[] Item bonusses to increase score
+[] Score labels on ghost and power-up hit
+[] Next level functionality
+[] Progressively faster ghosts
+[] Start and pause screen
+[] Game over screen
+[] Sound and audio
